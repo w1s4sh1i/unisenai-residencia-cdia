@@ -17,6 +17,7 @@ $ pip install -r requirements.txt
 ```
 unisenai-residencia-cdia-t225/
 ├── README.md
+├── requirements.txt
 ├── DATASET
 |   ├── bootcamp_train.py
 |   └── bootcamp_test.py
